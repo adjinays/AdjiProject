@@ -1,0 +1,3 @@
+D:\Adji\Pengajuan Vibi\Pengajuan Vibi\obj\x86\Debug\Form Pengajuan.exe
+D:\Adji\Pengajuan Vibi\Pengajuan Vibi\obj\x86\Debug\Form Pengajuan.xml
+D:\Adji\Pengajuan Vibi\Pengajuan Vibi\obj\x86\Debug\Form Pengajuan.pdb
