@@ -1,0 +1,3 @@
+F:\ADJI\UTS\Tranportation\Tranportation\obj\x86\Debug\Tranportation.Form1.resources
+F:\ADJI\UTS\Tranportation\Tranportation\obj\x86\Debug\Tranportation.Resources.resources
+F:\ADJI\UTS\Tranportation\Tranportation\obj\x86\Debug\Tranportation.vbproj.GenerateResource.Cache
